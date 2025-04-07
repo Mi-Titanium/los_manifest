@@ -13,6 +13,10 @@
           fetch="https://github.com/k4ngcaribug"
           revision="a13/master" />
 
+  <remote  name="RennAlt"
+           fetch="https://github.com/RennAlt"
+           revision="a13/master" />
+
   <!-- LineageOS additions -->
   <project path="android" name="LineageOS/android" />
   <project path="device/lineage/atv" name="LineageOS/android_device_lineage_atv" />
@@ -156,6 +160,7 @@
 
  <!-- YSL-MODULE -->
   <project path="kernel/xiaomi/msm8953/techpack/xiaomi-msm8953"        name="techpack_xiaomi-msm8953"      remote="Titanium" revision="main"/>
+  <project path="hardware/xiaomi"        name="android_hardware_xiaomi"      remote="RennAlt" revision="lineage-21"/>
 
  <!-- MISC -->
   <project path="vendor/extra" name="vendor_extra" remote="al" revision="ten" />
