@@ -163,7 +163,7 @@
   <project path="hardware/xiaomi"        name="android_hardware_xiaomi"      remote="RennAlt" revision="lineage-21"/>
 
  <!-- MISC -->
-  <project path="vendor/extra" name="vendor_extra" remote="al" revision="ten" />
+  <project path="vendor/extra" name="vendor_extra" remote="al" revision="14" />
 
   <!-- NXP additions -->
   <!--
